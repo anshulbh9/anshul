@@ -1,10 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2020-01-09'
+title: 'Software Engineer Intern'
+company: 'Oyo Rooms'
+location: 'Gurugram, HR'
+range: '2020-07-31'
+url: 'https://www.oyorooms.com/'
 ---
 
 - Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS

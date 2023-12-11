@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
+date: '2022-10-17'
+title: 'Member of Technical Staff'
+company: 'Salesforce'
 location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+range: 'Present'
+url: 'https://www.salesforce.com'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
