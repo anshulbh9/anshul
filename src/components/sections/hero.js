@@ -68,24 +68,15 @@ const Hero = () => {
         I’m a software engineer specializing in building exceptional
         digital experiences. Currently, I’m working as member of technical staff
         at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        <a href="https://salesforce.com/" target="_blank" rel="noreferrer">
           Salesforce
         </a>
         .
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
-  );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
