@@ -7,5 +7,7 @@ range: '2022-10-16'
 url: 'https://flipkart.com'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Worked as part of the Promise Engine team in the supply chain division, which is responsible for computing end-to-end physical delivery capabilities of products to customers.
+- Worked on core fulfilment and inventory services. Worked on both function and non-function requirements, improving scalability and reliability.
+- Dockerizing and onboarding micro-services to k8s, creating CI/CD pipelines and setting up cosmos for monitoring and adding alerts for application health and latencies.
+- Active part of on-call rotation to handle production issues and created action items to improve overall reliability and availability.
