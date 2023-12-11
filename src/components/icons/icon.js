@@ -23,7 +23,7 @@ const Icon = ({ name }) => {
       return <IconAppStore />;
     case 'Bookmark':
       return <IconBookmark />;
-    case 'Codepen':
+    case 'LeetCode':
       return <IconCodepen />;
     case 'External':
       return <IconExternal />;

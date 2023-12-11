@@ -68,7 +68,7 @@ const Hero = () => {
         I’m a software engineer specializing in building exceptional
         digital experiences. Currently, I’m working as member of technical staff
         at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        <a href="https://salesforce.com/" target="_blank" rel="noreferrer">
           Salesforce
         </a>
         .
