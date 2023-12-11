@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Anshul Bhardwaj',
     description:
-      'Anshul Bhardwaj is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Anshul Bhardwaj',
-        short_name: 'Anshul Bhardwaj',
+        name: 'Brittany Chiang',
+        short_name: 'Brittany Chiang',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
