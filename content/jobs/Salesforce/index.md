@@ -3,11 +3,10 @@ date: '2022-10-17'
 title: 'Member of Technical Staff'
 company: 'Salesforce'
 location: 'Cupertino, CA'
-range: 'Present'
+range: '2022-10-17-Present'
 url: 'https://www.salesforce.com'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Working in the control plane team, creating a platform for onboarding new tenants and scaling the platform to multiple geographies.
+- Created a generic framework for di􏰂erent types of ingress and egress connectors such as AWS, Azure, Snowflake, and GCP.
+- Upgraded Postgres to 14.0 version with logical replication without any downtime. Worked on terraform script to define resource policies.

@@ -3,7 +3,7 @@ date: '2021-03-15'
 title: 'Software Engineer'
 company: 'Flipkart'
 location: 'Bengaluru'
-range: '2022-10-16'
+range: '2021-03-15-2022-10-16'
 url: 'https://flipkart.com'
 ---
 
